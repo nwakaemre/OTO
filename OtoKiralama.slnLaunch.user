@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Yeni Profil",
+    "Projects": [
+      {
+        "Path": "OtoKiralama.Api\\OtoKiralama.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OtoKiralama.Web\\OtoKiralama.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
