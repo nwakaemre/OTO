@@ -1,0 +1,11 @@
+C:\Users\emreg\source\repos\OtoKiralama\OtoKiralama.Domain\bin\Debug\net8.0\OtoKiralama.Domain.deps.json
+C:\Users\emreg\source\repos\OtoKiralama\OtoKiralama.Domain\bin\Debug\net8.0\OtoKiralama.Domain.dll
+C:\Users\emreg\source\repos\OtoKiralama\OtoKiralama.Domain\bin\Debug\net8.0\OtoKiralama.Domain.pdb
+C:\Users\emreg\source\repos\OtoKiralama\OtoKiralama.Domain\obj\Debug\net8.0\OtoKiralama.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emreg\source\repos\OtoKiralama\OtoKiralama.Domain\obj\Debug\net8.0\OtoKiralama.Domain.AssemblyInfoInputs.cache
+C:\Users\emreg\source\repos\OtoKiralama\OtoKiralama.Domain\obj\Debug\net8.0\OtoKiralama.Domain.AssemblyInfo.cs
+C:\Users\emreg\source\repos\OtoKiralama\OtoKiralama.Domain\obj\Debug\net8.0\OtoKiralama.Domain.csproj.CoreCompileInputs.cache
+C:\Users\emreg\source\repos\OtoKiralama\OtoKiralama.Domain\obj\Debug\net8.0\OtoKiralama.Domain.dll
+C:\Users\emreg\source\repos\OtoKiralama\OtoKiralama.Domain\obj\Debug\net8.0\refint\OtoKiralama.Domain.dll
+C:\Users\emreg\source\repos\OtoKiralama\OtoKiralama.Domain\obj\Debug\net8.0\OtoKiralama.Domain.pdb
+C:\Users\emreg\source\repos\OtoKiralama\OtoKiralama.Domain\obj\Debug\net8.0\ref\OtoKiralama.Domain.dll
